@@ -1,0 +1,26 @@
+body {
+  background-color: #00ffea;
+}
+
+h1 {
+  zoom: 170%;
+}
+h2 {
+  zoom: 170%;
+}
+h3 {
+  zoom: 135%;
+}
+h4 {
+  zoom: 210%;
+}
+h5 {
+  zoom: 180%;
+}
+#my-quotes {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80%;
+}
